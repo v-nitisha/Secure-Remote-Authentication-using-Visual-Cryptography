@@ -1,0 +1,12 @@
+body{
+    background: black;
+}
+h1,h2{
+    color: gold;
+}
+
+a.card,
+a.card:hover {
+  color: #212529;
+  text-decoration: none;
+}

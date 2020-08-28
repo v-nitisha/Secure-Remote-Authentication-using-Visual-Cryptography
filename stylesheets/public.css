@@ -1,0 +1,28 @@
+body{
+	background: #333;
+	color: #fff;
+}
+
+.navbar {
+	border-bottom: #008ed6 3px solid;
+}
+
+.selected {
+	font-weight: bold;
+}
+
+main > .container {
+	padding: 20px 15px 0;
+  }
+  
+  .footer {
+	background-color: #f5f5f5;
+  }
+  
+  .footer > .container {
+	padding-right: 15px;
+	padding-left: 15px;
+  }
+
+
+

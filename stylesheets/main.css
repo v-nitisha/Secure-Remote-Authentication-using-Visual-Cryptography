@@ -1,0 +1,17 @@
+html, body, div {
+    margin: 0px;
+    padding: 0px;
+    background: #1f1d22;
+    color:grey;
+
+}
+
+
+
+h2,h1{
+  color: gold;
+}
+
+.custom-file-control.selected:lang(en)::after {
+  content: "" !important;
+}
